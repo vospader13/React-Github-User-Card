@@ -1,0 +1,112 @@
+body{
+    /* display:flex;
+    justify-content: space-around;
+    text-align: center; */
+    background:rgba(133, 148, 189, 0.993);
+  }
+
+  #main{
+    background:rgba(133, 148, 189, 0.993);
+    padding:20px;
+    width:auto;
+    box-shadow:inset 3px 1px 6px 1px black;
+    border-radius: 3px;
+    border:1px inset red;
+  }
+  .App{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    margin: auto;
+    
+
+    
+  
+
+  }
+  
+  /* #flex{
+    display:flex;
+    flex-wrap:wrap;
+    width:10vw;
+    
+  
+  } */
+  
+  .input-name{
+      border-radius: 3px;
+      box-shadow:inset 1px 1px 6px 1px black;
+      font-size:26px;
+  }
+  
+  .submit-name{
+    border-radius: 3px;
+    box-shadow:1px 1px 6px 1px black;
+    font-size:26px;
+  }
+  .header{
+    font-size:38px;
+    text-align: center;
+      box-shadow:1px 1px 6px 1px black;
+  }
+  .img{
+    
+    box-shadow:1px 1px 6px 1px black;
+    width:300px;
+    height:300px;
+    margin: 20px;
+  }
+  
+  .followers{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-top: 2%;
+    width: 10vw;
+    
+
+}  
+
+  .info{
+  
+  }
+  
+  .name{
+  
+  }
+  
+  .company{
+  
+  
+  }
+  
+  .type{
+  
+  
+  }
+  
+  .location{
+  
+  
+  }
+  
+  .followers{
+  
+  
+  }
+  
+  .repolink{
+  
+  
+  }
+  
+  .public_repos{
+  
+  
+  }
+  
+  .bio{
+  
+  }
