@@ -26,7 +26,7 @@ class App extends React.Component {
         this.setState({ ...this.state, followers: res.data });
       })
       .catch(err => {
-        console.log("no data returned", err);
+        console.log("no data returned" , err);
       });
   };
 
